@@ -1,0 +1,40 @@
+Sun Oct 23 23:31:51 COT 2022 - Cliente 2 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 10 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 6 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 4 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 9 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 7 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 1 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 8 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 5 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 3 intentando conectarse
+Sun Oct 23 23:31:51 COT 2022 - Cliente 8 recibio archivo AppCliente\ArchivosRecibidos\8-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 8 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 8 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 9 recibio archivo AppCliente\ArchivosRecibidos\9-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 9 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 9 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 6 recibio archivo AppCliente\ArchivosRecibidos\6-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 10 recibio archivo AppCliente\ArchivosRecibidos\10-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 6 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 4 recibio archivo AppCliente\ArchivosRecibidos\4-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 10 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 4 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 1 recibio archivo AppCliente\ArchivosRecibidos\1-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 6 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 1 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 5 recibio archivo AppCliente\ArchivosRecibidos\5-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 4 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 7 recibio archivo AppCliente\ArchivosRecibidos\7-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 10 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 7 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 5 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 1 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 5 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 7 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 2 recibio archivo AppCliente\ArchivosRecibidos\2-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 3 recibio archivo AppCliente\ArchivosRecibidos\3-Prueba-10.bin
+Sun Oct 23 23:31:51 COT 2022 - Cliente 2 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 3 - Tiempo de envio: 0 s
+Sun Oct 23 23:31:51 COT 2022 - Cliente 2 recibo archivo correcto
+Sun Oct 23 23:31:51 COT 2022 - Cliente 3 recibo archivo correcto

@@ -32,6 +32,7 @@ public class AppServer extends Thread {
     private static File logFile;
 
     private static int nClientes = 0;
+    private int threads=0;
 
     public static void main(String[] args) throws Exception {
         // Get current time for logFile name <año-mes-dia-hora-minuto-segundo-log.txt>
@@ -356,9 +357,14 @@ public class AppServer extends Thread {
                 //creo el datagrama
             DatagramPacket respuesta = new DatagramPacket(buffer, buffer.length, direccion, puertoCliente);
             socketCliente.send(respuesta);
-            socketCliente.close();
+            
 
             log("Tasa de envio: " + (fileEnviar.length() / (1024*((end - start)/1000))) + " KB/s");
+            if (threads==nClientes){
+                socketCliente.close();
+            }else{
+                threads++;
+            }
 
         } catch (Exception e) {
             e.printStackTrace();

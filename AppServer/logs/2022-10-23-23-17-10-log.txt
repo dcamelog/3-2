@@ -1,0 +1,20 @@
+Sun Oct 23 23:17:16 COT 2022 - Server 0 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 9 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 8 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 7 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 6 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 5 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 4 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 3 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 2 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Server 1 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:17:16 COT 2022 - Tamanio del archivo: 100000000 bytes

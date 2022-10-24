@@ -1,0 +1,5 @@
+Sun Oct 23 23:14:36 COT 2022 - Cliente 1 intentando conectarse
+Sun Oct 23 23:14:36 COT 2022 - Cliente 2 intentando conectarse
+Sun Oct 23 23:14:36 COT 2022 - Cliente 3 intentando conectarse
+Sun Oct 23 23:14:36 COT 2022 - Cliente 5 intentando conectarse
+Sun Oct 23 23:14:36 COT 2022 - Cliente 4 intentando conectarse

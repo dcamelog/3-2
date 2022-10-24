@@ -1,0 +1,13 @@
+Sun Oct 23 23:17:53 COT 2022 - Cliente 5 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 1 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 3 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 10 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 4 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 2 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 7 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 6 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 8 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 9 intentando conectarse
+Sun Oct 23 23:17:53 COT 2022 - Cliente 1 recibio archivo AppCliente\ArchivosRecibidos\1-Prueba-10.bin
+Sun Oct 23 23:17:53 COT 2022 - Cliente 1 - Tiempo de envio: 0 s
+Sun Oct 23 23:17:53 COT 2022 - Cliente 1 recibo archivo correcto

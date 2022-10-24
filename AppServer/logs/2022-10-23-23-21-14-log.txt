@@ -1,0 +1,40 @@
+Sun Oct 23 23:21:25 COT 2022 - Server 0 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:21:25 COT 2022 - Server 4 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:21:25 COT 2022 - Server 3 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:21:25 COT 2022 - Server 2 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:21:25 COT 2022 - Server 1 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 23:21:25 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:21:25 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:21:25 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:21:25 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:21:25 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 23:21:36 COT 2022 - Server: 2/5 - Esperando a los demas clientes
+Sun Oct 23 23:21:36 COT 2022 - Server: 0/5 - Esperando a los demas clientes
+Sun Oct 23 23:21:36 COT 2022 - Server: 1/5 - Esperando a los demas clientes
+Sun Oct 23 23:21:36 COT 2022 - Server: 3/5 - Esperando a los demas clientes
+Sun Oct 23 23:21:36 COT 2022 - Server: 4/5 - Esperando a los demas clientes
+Sun Oct 23 23:21:36 COT 2022 - Server: 4 - Enviando archivo...
+Sun Oct 23 23:21:36 COT 2022 - Server: 3 - Enviando archivo...
+Sun Oct 23 23:21:36 COT 2022 - Server: 1 - Enviando archivo...
+Sun Oct 23 23:21:36 COT 2022 - Server: 0 - Enviando archivo...
+Sun Oct 23 23:21:36 COT 2022 - Server: 2 - Enviando archivo...
+Sun Oct 23 23:21:36 COT 2022 - Server: 0 - Archivo enviado del cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 1 - Archivo enviado del cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 3 - Archivo enviado del cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 4 - Archivo enviado del cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 3 - Tiempo de envio: 10653 ms
+Sun Oct 23 23:21:36 COT 2022 - Server: 1 - Tiempo de envio: 10652 ms
+Sun Oct 23 23:21:36 COT 2022 - Server: 0 - Tiempo de envio: 10652 ms
+Sun Oct 23 23:21:36 COT 2022 - Server: 2 - Archivo enviado del cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 0 - Terminando conexion con cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 1 - Terminando conexion con cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 3 - Terminando conexion con cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 4 - Tiempo de envio: 10653 ms
+Sun Oct 23 23:21:36 COT 2022 - Tasa de envio: 9765 KB/s
+Sun Oct 23 23:21:36 COT 2022 - Tasa de envio: 9765 KB/s
+Sun Oct 23 23:21:36 COT 2022 - Tasa de envio: 9765 KB/s
+Sun Oct 23 23:21:36 COT 2022 - Server: 2 - Tiempo de envio: 10655 ms
+Sun Oct 23 23:21:36 COT 2022 - Server: 4 - Terminando conexion con cliente 
+Sun Oct 23 23:21:36 COT 2022 - Server: 2 - Terminando conexion con cliente 
+Sun Oct 23 23:21:36 COT 2022 - Tasa de envio: 9765 KB/s
+Sun Oct 23 23:21:36 COT 2022 - Tasa de envio: 9765 KB/s
