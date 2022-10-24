@@ -11,7 +11,7 @@ public class AppCliente {
         n = scanner.nextInt();
         Date now = new Date();
         String logFileName = String.format("%tY-%tm-%td-%tH-%tM-%tS-log.txt", now, now, now, now, now, now);
-        File logFile = new File("logs\\" + logFileName);
+        File logFile = new File("AppCliente\\logs\\" + logFileName);
         Cliente clientes[] = new Cliente[n];
         for (int i = 0; i < n; i++) {
             clientes[i] = new Cliente(i+1,n, logFile);

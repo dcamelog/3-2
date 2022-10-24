@@ -21,7 +21,7 @@ public class Cliente extends Thread {
     private Integer totalConexiones;
     private File logFile;
     private final static Integer PORT = 5555;
-    private final static String HOST = "192.168.20.32";
+    private final static String HOST =  "localhost";        //"192.168.20.32";
 
     byte[] buffer = new byte[1024];
 
@@ -37,7 +37,7 @@ public class Cliente extends Thread {
     FileInputStream fis = new FileInputStream(file);
 
     //Create byte array to read data in chunks
-    byte[] byteArray = new byte[1024];
+    byte[] byteArray = new byte[787734];
     int bytesCount = 0;
 
     //Read file data and update in message digest
@@ -85,36 +85,22 @@ public class Cliente extends Thread {
             //DataInputStream clientData = new DataInputStream(in);
             InetAddress direccionServidor = InetAddress.getByName(HOST);
             int bytesRead;
-            String mensajeInicio = "Cliente " + id + " intentando conectarse al servidor";
+            String mensajeInicio = "Cliente " + id + " intentando conectarse";
             log(mensajeInicio, logFile);
-            buffer = mensajeInicio.getBytes();
+            //buffer = mensajeInicio.getBytes();
  
             //Creo un datagrama
-            DatagramPacket pregunta = new DatagramPacket(buffer, buffer.length, direccionServidor, PORT);
-            socket.send(pregunta);
+            //DatagramPacket pregunta = new DatagramPacket(buffer, buffer.length, direccionServidor, PORT);
+            //socket.send(pregunta);
             //escritorS.println(mensajeInicio);
-            DatagramPacket peticion = new DatagramPacket(buffer, buffer.length);
+            //DatagramPacket peticion = new DatagramPacket(buffer, buffer.length);
  
             //Recibo la respuesta
-            socket.receive(peticion);
-            String conexionE = new String(peticion.getData());
-            if (conexionE.equals("Conexion establecida con cliente " + id)) {
-                log("Cliente " + id + " establecio conexion con el servidor", logFile);
-                String peticionArchivo = "Cliente " + id + " solicita tamanio del archivo";
-                log(peticionArchivo, logFile);
-                buffer = peticionArchivo.getBytes();
-                DatagramPacket pa = new DatagramPacket(buffer, buffer.length, direccionServidor, PORT);
-                socket.send(pa);
-                //escritorS.println(peticionArchivo);
-                DatagramPacket rpa = new DatagramPacket(buffer, buffer.length);
- 
-                //Recibo la respuesta
-                socket.receive(rpa);
-                String strTamanio=new String(rpa.getData());
-                long size = Long.valueOf(strTamanio.split(" ")[5]);
-                log("Cliente " + id + " recibio tamanio archivo " + size, logFile);
-                String clienteListo = "Cliente " + id + " listo para recibir archivo";
-                log(clienteListo, logFile);
+            
+            //socket.receive(peticion);
+            //String conexionE = new String(peticion.getData());
+            //System.out.println(conexionE);
+                String clienteListo="Cliente Listo";
                 buffer = clienteListo.getBytes();
                 DatagramPacket cListo = new DatagramPacket(buffer, buffer.length, direccionServidor, PORT);
                 socket.send(cListo);
@@ -122,7 +108,7 @@ public class Cliente extends Thread {
                 Boolean archivoRecepcion = false;
                 long start = System.currentTimeMillis();
                 while (archivoRecepcion == false){
-                    String fileName = "ArchivosRecibidos\\"+id+"-Prueba-"+totalConexiones+".bin" ;
+                    String fileName = "AppCliente\\ArchivosRecibidos\\"+id+"-Prueba-"+totalConexiones+".bin" ;
                     File file = new File(fileName);
                     file.createNewFile();
                     FileOutputStream output = new FileOutputStream(file);
@@ -140,6 +126,7 @@ public class Cliente extends Thread {
 
                     String nombreArchivo = "Cliente " + id + " recibio archivo "+ fileName;
                     log(nombreArchivo, logFile);
+                    archivoRecepcion=true;
                 }
                 long end = System.currentTimeMillis();
                 log("Cliente " + id + " - Tiempo de envio: " + ((end - start)/1000) + " s", logFile);
@@ -151,7 +138,7 @@ public class Cliente extends Thread {
                 String conexionF = new String(finalC.getData());
                 log(conexionF + " Cliente " + id, logFile);
                 //TO-DO log
-            }
+            
             socket.close();
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());

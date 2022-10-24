@@ -1,0 +1,4 @@
+Sun Oct 23 21:59:20 COT 2022 - Server 0 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 21:59:20 COT 2022 - Tamanio del archivo: 100000000 bytes
+Sun Oct 23 21:59:30 COT 2022 - Server: 0/1 - Esperando a los demas clientes
+Sun Oct 23 21:59:30 COT 2022 - Server: 0 - Enviando archivo...

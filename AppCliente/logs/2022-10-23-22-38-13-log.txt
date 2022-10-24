@@ -1,0 +1,4 @@
+Sun Oct 23 22:38:13 COT 2022 - Cliente 1 intentando conectarse
+Sun Oct 23 22:38:13 COT 2022 - Cliente 1 recibio archivo AppCliente\ArchivosRecibidos\1-Prueba-1.bin
+Sun Oct 23 22:38:13 COT 2022 - Cliente 1 - Tiempo de envio: 0 s
+Sun Oct 23 22:38:13 COT 2022 - Cliente 1 recibo archivo correcto

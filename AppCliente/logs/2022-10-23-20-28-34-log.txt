@@ -1,0 +1,1 @@
+Sun Oct 23 20:28:34 COT 2022 - Cliente 1 intentando conectarse al servidor

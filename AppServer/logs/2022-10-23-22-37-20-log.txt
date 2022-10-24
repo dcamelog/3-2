@@ -1,0 +1,2 @@
+Sun Oct 23 22:37:25 COT 2022 - Server 0 en linea para envio del archivo 100MB.bin al cliente 
+Sun Oct 23 22:37:25 COT 2022 - Tamanio del archivo: 100000000 bytes
